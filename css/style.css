@@ -1,6 +1,6 @@
 body
 {
-  background-image: url("images/background.jpg");
+  background-image: url("../images/background.jpg");
 
 }
 
@@ -11,6 +11,10 @@ h1
     font-weight: 400; 
     color: blue;
 
+}
+
+th{
+  
 }
 
 img {
