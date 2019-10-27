@@ -6,8 +6,10 @@ body
 
 h1
 {
-    font-family: Didot,Didot LT STD,Hoefler Text,Garamond,Times New Roman,serif; 
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
     color: white;
+      text-align: center;
+
 }
 
 img {
